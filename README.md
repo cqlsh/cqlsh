@@ -1,4 +1,4 @@
-<h1 align="center">✨ hey, ich bin Cqlsh ✨</h1>
+<h1 align="center">✨ Hey, i'm Cqlsh ✨</h1>
 
 <p align="center">
   <em>Ich baue kleine Dinge mit Python — am liebsten sauber, leise und hübsch.</em>
@@ -24,25 +24,6 @@ class Cqlsh:
     def say_hi(self):
         return "schön, dass du hier bist 💗"
 ```
-
-<br>
-
-### 🎀 was mich gerade beschäftigt
-
-- 🐍 alles rund um **Python** — Automatisierung, kleine Tools, APIs
-- 🌱 saubereren Code schreiben statt nur *funktionierenden*
-- 💌 Projekte, die sich gut anfühlen zu benutzen
-
-<br>
-
-### 📊 stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Cqlsh&show_icons=true&hide_border=true&title_color=E75480&icon_color=E75480&text_color=888&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cqlsh&layout=compact&hide_border=true&title_color=E75480&text_color=888&bg_color=00000000" />
-</p>
-
-<br>
 
 <p align="center">
   <sub>made with 💗 and too much coffee</sub>
