@@ -1,24 +1,28 @@
-<h1 align="center">✨ Hey, i'm Cqlsh ✨</h1>
-
 <p align="center">
-  <em>Ich baue Dinge mit Python — am liebsten sauber, leise und hübsch.</em>
+  <em>I build things with Python — ideally clean, quiet, and pretty.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F8C8DC?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-E6C8F0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <a href="https://www.python.org/downloads/release/python-3135/">
+    <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F8C8DC?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/download/">
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-E6C8F0?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  </a>
 </p>
 
 <br>
 
-### 🌸 über mich
+### 🌸 About Me
 
 ```python
 class Cqlsh:
     def __init__(self):
         self.language = "Python"
-        self.currently = "I learn something new every day."
+        self.currently = "I'm learning something new every day"
         self.mood = "☕ + 🎧 + code"
 
     def say_hi(self):
