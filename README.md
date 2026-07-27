@@ -16,7 +16,7 @@
 
 <br>
 
----
+<hr style="border: none; height: 1px; background: #F8C8DC;">
 
 ### 🌸 About Me
 
