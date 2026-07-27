@@ -16,6 +16,8 @@
 
 <br>
 
+---
+
 ### 🌸 About Me
 
 ```python
