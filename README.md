@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, i'm Cqlsh ✨</h1>
 
 <p align="center">
-  <em>Ich baue kleine Dinge mit Python — am liebsten sauber, leise und hübsch.</em>
+  <em>Ich baue Dinge mit Python — am liebsten sauber, leise und hübsch.</em>
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 class Cqlsh:
     def __init__(self):
         self.language = "Python"
-        self.currently = "lerne jeden Tag etwas Neues"
+        self.currently = "I learn something new every day."
         self.mood = "☕ + 🎧 + code"
 
     def say_hi(self):
-        return "schön, dass du hier bist 💗"
+        return "so glad you're here 💗"
 ```
 
 <p align="center">
