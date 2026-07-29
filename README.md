@@ -25,6 +25,7 @@ class Cqlsh:
         self.language = "Python"
         self.currently = "I'm learning something new every day"
         self.mood = "☕ + 🎧 + code"
+        self.note = "Apologies if my English isn't perfect. My native language is German, and I use tools like GPT for translation."
 
     def say_hi(self):
         return "so glad you're here 💗"
